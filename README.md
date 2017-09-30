@@ -20,7 +20,7 @@
 |  | Project | Make a todo list webapp |   |    |
 |   | Course | Learn AJAX |   |    |
 |   | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) |   | May 27, 2017 |
-|   | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) |   |  |
+|   | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) |   | Sep 29, 2017|
 |   | Project | FCC Intermediate Project - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) |   | May 28, 2017 |
 |   | Project | FCC Intermediate Project - [Build a Twitch TV Viewer](https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api) |   | Jun 3, 2017 |
 |   | Course | Learn ES6 - Wes Bos's [ES6 for Everyone](https://es6.io/) | 
